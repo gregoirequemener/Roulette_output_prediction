@@ -1,0 +1,11 @@
+Round,Winning Number,Winning Color,Red Bet Win,Black Bet Win,Even Bet Win,Odd Bet Win,Zero Bet Win
+1,33,Black,0,1,0,1,0
+2,17,Black,0,1,0,1,0
+3,16,Red,1,0,1,0,0
+4,36,Red,1,0,1,0,0
+5,31,Black,0,1,0,1,0
+6,32,Red,1,0,1,0,0
+7,33,Black,0,1,0,1,0
+8,22,Black,0,1,1,0,0
+9,26,Black,0,1,1,0,0
+10,3,Red,1,0,0,1,0
